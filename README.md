@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Sergey!
 
-<!--
-**bauman1922/bauman1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer passionate about building web applications and tackling challenging problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python.
+- 💡 Seeking interesting projects to collaborate on and explore new technologies.
+
+## Contact Me
+
+- 📧 [Email](mailto:bauman1922@yandex.ru)
+
+- 📷 [Telegram](https://t.me/bauman1922)
+
