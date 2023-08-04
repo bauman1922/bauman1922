@@ -4,6 +4,7 @@ I'm a beginner developer passionate about building web applications and tackling
 
 ## About Me
 
+- 🎓 Graduated from The Bauman Moscow State Technical University, BMSTU.
 - 🌱 Currently learning Python.
 - 💡 Seeking interesting projects to collaborate on and explore new technologies.
 
