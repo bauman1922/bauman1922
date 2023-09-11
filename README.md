@@ -1,4 +1,4 @@
-# Hi, I'm Sergei!
+# Hi, I'm Sergey!
 
 I'm a beginner developer passionate about building web applications and tackling challenging problems.
 
